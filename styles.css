@@ -1,0 +1,31 @@
+#logocac{
+    width: 100px;
+    height: auto;
+}
+
+.carousel-item {
+    position: relative;
+
+}
+
+.carousel-caption {
+    position: absolute;
+    right: 20px;
+    bottom: 30%;
+    text-align: end;
+}
+
+.titulo {
+    display: block;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.titulo h2 {
+    font-size: 15px;
+}
+
+.subtitulo {
+    display: block;
+    font-size: 40px;
+}
